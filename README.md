@@ -1,4 +1,7 @@
-# api documentation for  [ember-drag-drop (v0.4.3)](https://github.com/mharris717/ember-drag-drop#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-drag-drop.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-drag-drop) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-drag-drop.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-drag-drop)
+# npmdoc-ember-drag-drop
+
+#### basic api documentation for  [ember-drag-drop (v0.4.3)](https://github.com/mharris717/ember-drag-drop#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-drag-drop.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-drag-drop) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-drag-drop.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-drag-drop)
+
 #### Addon for Ember CLI to do drag and drop
 
 [![NPM](https://nodei.co/npm/ember-drag-drop.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-drag-drop)
@@ -89,7 +92,8 @@
         "start": "ember server",
         "test": "ember try:each"
     },
-    "version": "0.4.3"
+    "version": "0.4.3",
+    "bin": {}
 }
 ```
 
